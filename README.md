@@ -104,10 +104,3 @@ A REST API server built with NestJS for managing zoo data.
 
 - NestJS
 - TypeScript
-
-## Getting Started
-
-\`\`\`bash
-npm install
-npm run start:dev
-\`\`\`
